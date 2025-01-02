@@ -1,5 +1,0 @@
-What is the capital of France?;Paris,London,Berlin;Paris
-What is 5 + 3?;6,7,8;8
-Who wrote 'Hamlet'?;Shakespeare,Dickens,Hemingway;Shakespeare
-Which planet is known as the Red Planet?;Earth,Mars,Venus;Mars
-What is the largest ocean?;Atlantic,Indian,Pacific;Pacific
